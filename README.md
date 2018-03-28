@@ -1,2 +1,2 @@
-# nodePractice1
-tiny node js library
+# htmlProjectTemplate
+A basic HTML project folder with linked CSS, JS, and jQuery files.
